@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "C:\\Users\\fhoss\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+  "python.linting.pylintPath": "C:\\Users\\fhoss\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\pylint.exe",
+  "python.formatting.autopep8Path": "C:\\Users\\fhoss\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\autopep8.exe",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.linting.lintOnSave": true
+}
