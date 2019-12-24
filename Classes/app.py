@@ -1,4 +1,8 @@
-for i in range(6):
-    pass
-else:
-    print(i)
+class Text(str):
+    def draw(self):
+        print(self+self)
+
+
+text = Text("Python")
+print(text.lower())
+text.draw()
