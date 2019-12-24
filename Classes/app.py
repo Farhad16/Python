@@ -1,2 +1,4 @@
-for number in range(1, 11):
-    print(f"{number} Hello world!")
+for i in range(6):
+    pass
+else:
+    print(i)
